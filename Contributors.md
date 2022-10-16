@@ -3767,5 +3767,6 @@ first contributions - hanyang univ.
 - [Sergei Shtukaturov](https://github.com/Zimovit/)
 - [Akruti Sarangi](https://github.com/avi78)
 - [Hrishi](https://github.com/Excalibur1999)
+- [Tanay Patil](https://github.com/patil-tanay)
 -[]
 
